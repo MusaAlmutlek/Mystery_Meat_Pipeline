@@ -1,0 +1,11 @@
+Sample D with references (Leatherback Turtle)
+
+Dermochelys coriacea - JX454973.1
+Dermochelys coriacea - MF460363.1
+Eretmochelys imbricata - PQ276114.1
+Eretmochelys imbricata - NC_012398.1
+Natator depressus - NC_018550.1
+Chelonia mydas - NC_000886.1
+Caretta caretta - JX454988.1
+Lepidochelys kempii - MN136061.1
+Stigmochelys pardalis - NC_007694.1

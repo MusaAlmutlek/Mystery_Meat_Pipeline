@@ -1,0 +1,6 @@
+Sample C with references (Atlantic Bluefin Tuna)
+Thunnus thynnus - NC_014052.1 
+
+Thunnus thynnus - KF906720.1
+
+Thunnus thynnus - AB097669.1

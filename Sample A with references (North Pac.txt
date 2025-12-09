@@ -1,0 +1,14 @@
+Sample A with references (North Pacific Right Whale)
+Eubalaena japonica - OP205215.1
+Eubalaena japonica - OP205199.1
+Eubalaena japonica - NC_006931.1
+Eubalaena japonica - OP205202.1
+Eubalaena glacialis - OP205190.1
+Eubalaena glacialis - NC_037444.1
+Eubalaena glacialis - MF459656.1
+Eubalaena glacialis - OP205184.1
+Eubalaena australis - OP205174.1
+Eubalaena australis - NC_006930.1
+Eubalaena australis - OP205169.1
+Balaena mysticetus - MZ618258.1
+Balaena mysticetus - NC_005268.1
